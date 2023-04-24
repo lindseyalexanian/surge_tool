@@ -1,1 +1,4 @@
-# surge_tool
+# surge_tool, HSyE
+
+## Author
+Lindsey Alexanian
