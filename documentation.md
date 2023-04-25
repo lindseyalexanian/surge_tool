@@ -14,3 +14,5 @@ Dr. James Benneyan, Dr. Salma Bargal, Dr. Iulian Ilies, Ines Marques Madeira Ser
 Surge input should be in a .csv or .xls file.
 
 Other input required: current hospital census (COVID and non-COVID patients, MedSurg/ICU/ICU-ventilated patients), planning period (in # of days), calculation mode (deterministic or random), type of trend/fitting (exponential, logistic, manual, or doubling trend)
+
+## Process
