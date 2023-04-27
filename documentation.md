@@ -4,7 +4,7 @@
 Lindsey Alexanian
 
 ## Contributors
-Dr. James Benneyan, Dr. Salma Bargal, Dr. Iulian Ilies, Ines Marques Madeira Sereno
+Dr. James Benneyan, Dr. Basma Bargal, Dr. Iulian Ilies, Ines Marques Madeira Sereno
 
 ## Date Last Updated
 4/25/2023
